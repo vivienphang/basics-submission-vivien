@@ -1,2 +1,2 @@
-# basics-submission-vivien
+# RocketAcademyBasics
 Created with CodeSandbox
